@@ -14,7 +14,7 @@
 <p>Para acessar o projeto, primeiro abra seu terminal e digite os seguinte comandos:</p>
 Etapa 1 - Clonar o repositório na sua máquina
 
-    git clone git@github.com:antonioclc/movie-cars-library.git
+    git clone git@github.com:antonioclc/movie-cards-library.git
 
 Etapa 2 - Entrar na pasta do projeto clonado
 
