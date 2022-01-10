@@ -18,7 +18,7 @@ Etapa 1 - Clonar o repositório na sua máquina
 
 Etapa 2 - Entrar na pasta do projeto clonado
 
-    cd movie-cars-library
+    cd movie-cards-library
 
 Etapa 3 - Instalar dependências necessárias
 
