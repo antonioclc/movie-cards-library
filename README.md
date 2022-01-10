@@ -1,4 +1,4 @@
-<h1>StarWars Planet Search</h1>
+<h1>Movie Cards Library</h1>
 <h2>Apresentação</h2>
 <img src="https://github.com/antonioclc/movie-cards-library/blob/main/public/previw-movie-cards-library.png?raw=true">
 <p>Este projeto foi desenvolvido para simular uma biblioteca composta por  cards de filmes variados, com foto, título, subtítulo e uma breve descrição do filme.</p>
