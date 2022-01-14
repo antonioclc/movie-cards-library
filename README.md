@@ -2,7 +2,7 @@
 <h2>Apresentação</h2>
 <img src="https://github.com/antonioclc/movie-cards-library/blob/main/public/previw-movie-cards-library.png?raw=true">
 <p>Este projeto foi desenvolvido para simular uma biblioteca composta por  cards de filmes variados, com foto, título, subtítulo e uma breve descrição do filme.</p>
-<p><strong>Preview: </strong><a href="https://antonioclc.github.io/movie-cards-library/">Clique aqui!</a></p>
+<p><strong>Preview: </strong><a href="https://antonioclc.github.io/movie-cards-library/" target="_blank" rel="noreferrer">Clique aqui!</a></p>
 <p><strong>Desenvolvido por:</strong> Antônio Campos -
 	<a  href="https://github.com/antonioclc"  target="_blank"  		rel="noreferrer">GitHub |
 	</a> 
